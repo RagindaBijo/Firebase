@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267769467024",
+    "project_id": "luka-281f0",
+    "storage_bucket": "luka-281f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267769467024:android:f85eee87f9f2345fa64815",
+        "android_client_info": {
+          "package_name": "com.example.luka12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267769467024-p11kfgdhfnph3baho7p86qd9po3lc4a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpy8jczDIS_hw5-nhnFJr-92WRxIv88tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267769467024-p11kfgdhfnph3baho7p86qd9po3lc4a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
